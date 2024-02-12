@@ -1,0 +1,20 @@
+{
+  "name": "polymerPoc",
+  "homepage": "https://github.com/Abner3003/polymerPoc",
+  "authors": [
+    "abner cleim"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^3.5.1"
+  }
+}
